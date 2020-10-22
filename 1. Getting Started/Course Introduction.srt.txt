@@ -1,0 +1,47 @@
+1
+00: 00: 02,680 -> 00: 00: 07,540
+Welcome to my complete guide to anglers, it's great to have you in this course.
+
+2
+00: 00: 07,620 -> 00: 00: 13,860
+You'll learn what an angler is and how you can use it to build great front end web applications
+
+3
+00: 00: 13,860 -> 00: 00: 14,310
+with him.
+
+4
+00: 00: 14,400 -> 00: 00: 21,390
+Highly reactive web application with great user experience to it during this course.
+
+5
+00: 00: 21,390 -> 00: 00: 26,940
+You will learn all of the individual building blocks that make up the corners before us later too
+
+6
+00: 00: 26,940 -> 00: 00: 29,480
+dive into these more advanced features.
+
+7
+00: 00: 29,580 -> 00: 00: 34,880
+And we will build a project throughout the course putting all the things you will learn
+
+8
+00: 00: 34,890 -> 00: 00: 40,650
+in theory where you practice throughout the course into a real project perspective so you can see
+
+9
+00: 00: 40,650 -> 00: 00: 42,800
+how are you going to apply it there.
+
+10
+00: 00: 42,900 -> 00: 00: 48,670
+And it's like you can see how you build real web applications with the things you learn here.
+
+11
+00: 00: 48,690 -> 00: 00: 53,780
+So with that I say let's dive into that and let's dive into the most important question first.
+
+12
+00: 00: 53,820 -> 00: 00: 55,260
+What's an angle?
